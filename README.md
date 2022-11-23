@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @sowvino
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning web development
+
+
+MY PORTFOLIO 
+https://sowmyaportfolio.netlify.app/
 
 
 
