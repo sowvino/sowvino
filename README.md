@@ -6,6 +6,8 @@
 MY PORTFOLIO 
 https://sowmyaportfolio.netlify.app/
 
+https://www.codewars.com/users/sowvino/badges/small
+
 
 
 <!---
