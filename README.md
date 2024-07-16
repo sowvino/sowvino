@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sowvino
+- 👋 Hi, I’m sowmya
 - 👀 I’m interested in learning code
 - 🌱 I’m currently learning web development
 
